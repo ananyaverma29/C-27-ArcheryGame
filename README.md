@@ -1,1 +1,1 @@
-# C-27-ArcheryGame
+# project-C27-template
